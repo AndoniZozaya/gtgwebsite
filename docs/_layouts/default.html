@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600&display=swap"> <!-- Font Link -->
   
   <style>
     .header {
@@ -13,20 +13,40 @@
       background-size: cover;
       background-position: center;
       height: 300px;
-      color: black;
+      color: white;
       text-align: center;
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
-      font-size: 2.5em;
       font-family: 'Palanquin Dark', sans-serif; /* Updated font-family */
+    }
+    
+    .header h1 {
+      font-size: 3em; /* Main title size */
       font-weight: 600; /* SemiBold weight */
+      margin: 0;
+    }
+    
+    .header h2 {
+      font-size: 1.5em; /* Secondary title size */
+      font-weight: 400; /* Normal weight */
+      margin: 0;
+    }
+    
+    .header p {
+      font-size: 1em; /* Smaller text size */
+      margin: 0;
+      line-height: 1.5; /* Adjust line spacing */
     }
   </style>
 </head>
 <body>
   <header class="header">
-    Groups and Topological Groups
+    <h1>Groups and Topological Groups</h1>
+    <h2>GtG Ljubljana 2025</h2>
+    <p>XX - XX January 2025</p>
+    <p>University of Ljubljana</p>
   </header>
   <main>
     {{ content }}
