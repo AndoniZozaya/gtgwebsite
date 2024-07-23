@@ -9,15 +9,18 @@ title: Groups and Topological Groups
 </div>
 
 
-This is the seventh edition of Gruppen und topologische Gruppen, a 2-day international meeting devoted to recent developments in group theory. The next GtG meeting will be held at the Faculty of Mathematics and Physics (FMF) in Ljubljana (Slovenia). 
+Gruppen und topologische Gruppen is a 2-day international meeting devoted to recent developments in group theory. The next GtG meeting will be held at the Faculty of Mathematics and Physics (FMF) in Ljubljana (Slovenia). 
 
 The conference starts on Thursday, XXth of January 2025, in the morning and finishes on Friday, XXth of January, in the afternoon. 
 
 
 ## Registration:
 
+The registration is now open, please fill the following form.
 
 ## Speakers:
+
+The deadline for submitting contributed talk proposals is November 3rd. 
 
 
 ## Conference dinner:
