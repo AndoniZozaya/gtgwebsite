@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600&display=swap"> <!-- Font Link -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600;400&display=swap"> <!-- Font Link -->
 
   <style>
     .header {
@@ -26,6 +26,7 @@
       font-size: 3em; /* Main title size */
       font-weight: 600; /* SemiBold weight */
       margin: 0;
+      font-family: 'Palanquin Dark', sans-serif; /* Ensure font is applied */
       z-index: 1; /* Ensure text is above other elements */
     }
 
@@ -35,7 +36,7 @@
       left: 50%;
       transform: translateX(-50%);
       text-align: center;
-      font-family: 'Palanquin Dark', sans-serif;
+      font-family: 'Palanquin Dark', sans-serif; /* Apply font to all subtitles */
       color: white;
     }
 
