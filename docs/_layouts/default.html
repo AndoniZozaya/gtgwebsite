@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <style>
+    .header {
+      background-image: url("{{ '/background.jpg' | relative_url }}");
+      background-size: cover;
+      background-position: center;
+      height: 300px;
+      color: white;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2.5em;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    Groups and Topological Groups
+  </header>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
