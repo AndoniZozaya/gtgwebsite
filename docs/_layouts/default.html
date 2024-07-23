@@ -6,7 +6,7 @@
   <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600&display=swap"> <!-- Font Link -->
-  
+
   <style>
     .header {
       background-image: url("{{ '/background.jpg' | relative_url }}");
@@ -15,26 +15,37 @@
       height: 300px;
       color: white;
       text-align: center;
+      position: relative; /* Make the header relative for absolute positioning inside it */
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      font-family: 'Palanquin Dark', sans-serif; /* Updated font-family */
     }
-    
+
     .header h1 {
       font-size: 3em; /* Main title size */
       font-weight: 600; /* SemiBold weight */
       margin: 0;
+      z-index: 1; /* Ensure text is above other elements */
     }
-    
-    .header h2 {
+
+    .header .subtitles {
+      position: absolute; /* Position absolutely within the header */
+      bottom: -60px; /* Adjust based on the height of the image */
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+      font-family: 'Palanquin Dark', sans-serif;
+      color: white;
+    }
+
+    .header .subtitles h2 {
       font-size: 1.5em; /* Secondary title size */
       font-weight: 400; /* Normal weight */
       margin: 0;
     }
-    
-    .header p {
+
+    .header .subtitles p {
       font-size: 1em; /* Smaller text size */
       margin: 0;
       line-height: 1.5; /* Adjust line spacing */
@@ -44,9 +55,11 @@
 <body>
   <header class="header">
     <h1>Groups and Topological Groups</h1>
-    <h2>GtG Ljubljana 2025</h2>
-    <p>XX - XX January 2025</p>
-    <p>University of Ljubljana</p>
+    <div class="subtitles">
+      <h2>GtG Ljubljana 2025</h2>
+      <p>XX - XX January 2025</p>
+      <p>University of Ljubljana</p>
+    </div>
   </header>
   <main>
     {{ content }}
