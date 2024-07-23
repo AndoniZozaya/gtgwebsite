@@ -17,8 +17,9 @@ Welcome to my GitHub Pages.
 
 GtG Ljubljana 2025 is generously supported by
 
+- Sponsor 1
+- Sponsor 2
+
 ### Organised by:
 
-- Urban Jezernik ()
-- **Day 2:** Panel Discussions, Networking Events, and More Workshops
-- Andoni Zozaya ()
+**Urban Jezernik**, **Matjes** and **Andoni Zozaya**.
