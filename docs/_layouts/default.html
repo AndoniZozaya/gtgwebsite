@@ -1,23 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600&display=swap">
+  
   <style>
     .header {
       background-image: url("{{ '/background.jpg' | relative_url }}");
       background-size: cover;
       background-position: center;
       height: 300px;
-      color: white;
+      color: black;
       text-align: center;
       display: flex;
       justify-content: center;
       align-items: center;
       font-size: 2.5em;
-      font-family: 'Times New Roman', Times, serif;
-      font-weight: bold;
+      font-family: 'Palanquin Dark', sans-serif; /* Updated font-family */
+      font-weight: 600; /* SemiBold weight */
     }
   </style>
 </head>
