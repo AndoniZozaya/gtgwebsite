@@ -6,62 +6,16 @@
   <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600;400&display=swap"> <!-- Font Link -->
-
-  <style>
-    .header {
-      background-image: url("{{ '/background.jpg' | relative_url }}");
-      background-size: cover;
-      background-position: center;
-      height: 300px;
-      color: white;
-      text-align: center;
-      position: relative; /* Make the header relative for absolute positioning inside it */
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .header h1 {
-      font-size: 3em; /* Main title size */
-      font-weight: 600; /* SemiBold weight */
-      margin: 0;
-      font-family: 'Palanquin Dark', sans-serif; /* Ensure font is applied */
-      z-index: 1; /* Ensure text is above other elements */
-    }
-
-    .header .subtitles {
-      position: absolute; /* Position absolutely within the header */
-      bottom: -60px; /* Adjust based on the height of the image */
-      left: 50%;
-      transform: translateX(-50%);
-      text-align: center;
-      font-family: 'Palanquin Dark', sans-serif; /* Apply font to all subtitles */
-      color: white;
-    }
-
-    .header .subtitles h2 {
-      font-size: 1.5em; /* Secondary title size */
-      font-weight: 400; /* Normal weight */
-      margin: 0;
-    }
-
-    .header .subtitles p {
-      font-size: 1em; /* Smaller text size */
-      margin: 0;
-      line-height: 1.5; /* Adjust line spacing */
-    }
-  </style>
 </head>
 <body>
   <header class="header">
     <h1>Groups and Topological Groups</h1>
-    <div class="subtitles">
-      <h2>GtG Ljubljana 2025</h2>
-      <p>XX - XX January 2025</p>
-      <p>University of Ljubljana</p>
-    </div>
   </header>
+  <div class="subtitle">
+    <h2>GtG Ljubljana 2025</h2>
+    <p>XX - XX January 2025</p>
+    <p>University of Ljubljana</p>
+  </div>
   <main>
     {{ content }}
   </main>
