@@ -1,7 +1,15 @@
 ---
 layout: default
-title: Groups and Topological Groups
+title: Home
 ---
+
+# Groups and Topological Groups
+
+<div class="subtitle">
+  <h2>GtG Ljubljana 2025</h2>
+  <p>XX - XX January 2025</p>
+  <p>University of Ljubljana</p>
+</div>
 
 # Welcome to My Website
 
