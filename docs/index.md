@@ -16,7 +16,7 @@ The conference starts on Thursday, XXth of January 2025, in the morning and fini
 
 ## Registration:
 
-The registration is now open, please fill the following form.
+Register [here](https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit)
 
 ## Speakers:
 
