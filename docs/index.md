@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Groups and Topological Groups
 ---
 
 # Welcome to My Website
