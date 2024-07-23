@@ -4,7 +4,7 @@ title: Groups and Topological Groups
 
 <div class="subtitle">
   <h2 style="font-size: 2.5em;">GtG Ljubljana 2025</h2>
-  <h3 style="font-size: 1.5em;">XX - XX January 2025</h3>
+  <p style="font-size: 1.5em;">XX - XX January 2025</p>
   <p style="font-size: 1.1em;">University of Ljubljana</p>
 </div>
 
