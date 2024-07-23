@@ -1,13 +1,23 @@
 ---
-
 title: Groups and Topological Groups
 ---
 
 <div class="subtitle">
   <h2 style="font-size: 2.5em;">GtG Ljubljana 2025</h2>
   <p style="font-size: 1.5em;">XX - XX January 2025</h3>
-  <p style="font-size: 1.2em;">University of Ljubljana</p>
+  <p style="font-size: 1.1em;">University of Ljubljana</p>
 </div>
+
+## About:
+
+
+
+## Speakers:
+
+
+## Conference dinner:
+
+The conference dinner will take place at XX on Thursday XX. 
 
 ## Sponsors:
 
