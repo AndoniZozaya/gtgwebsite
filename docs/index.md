@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Home
+title: Groups and Topological Groups
 ---
-
-# Groups and Topological Groups
 
 <div class="subtitle">
   <h2>GtG Ljubljana 2025</h2>
