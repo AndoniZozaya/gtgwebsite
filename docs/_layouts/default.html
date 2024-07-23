@@ -18,7 +18,7 @@
       background-image: url("{{ '/background.jpg' | relative_url }}");
       background-size: cover;
       background-position: center;
-      height: 500px; /* Increased height for the header image */
+      height: 400px; /* Increased height for the header image */
       color: white;
       text-align: center;
       display: flex;
@@ -28,6 +28,12 @@
       position: relative;
       padding: 20px; /* Optional: Add padding if needed */
     }
+
+@media (max-width: 768px) {
+  .header {
+    height: 30vh; /* Adjust height for smaller screens */
+  }
+}
 
     .header h1 {
       font-size: 4em; /* Larger font size for the main title */
