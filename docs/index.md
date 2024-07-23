@@ -13,10 +13,12 @@ title: Groups and Topological Groups
 
 Welcome to my GitHub Pages.
 
-## About
+### Sponsors:
 
-This is a simple site of the GtG Conference in Ljubljana 2025.
+GtG Ljubljana 2025 is generously supported by
 
-### Organised by
+### Organised by:
 
-Feel free to reach out if you have any questions.
+- Urban Jezernik ()
+- **Day 2:** Panel Discussions, Networking Events, and More Workshops
+- Andoni Zozaya ()
