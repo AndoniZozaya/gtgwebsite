@@ -1,5 +1,5 @@
 ---
-layout: default
+
 title: Groups and Topological Groups
 ---
 
