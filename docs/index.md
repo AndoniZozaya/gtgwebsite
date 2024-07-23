@@ -4,22 +4,26 @@ title: Groups and Topological Groups
 ---
 
 <div class="subtitle">
-  <h2> GtG Ljubljana 2025</h2>
-  <p>XX - XX January 2025</p>
-  <p>University of Ljubljana</p>
+  <h2 style="font-size: 2.5em;">GtG Ljubljana 2025</h2>
+  <p style="font-size: 1.5em;">XX - XX January 2025</p>
+  <p style="font-size: 1.2em;">University of Ljubljana</p>
 </div>
 
-# Welcome to My Website
+## Conference Highlights
 
-Welcome to my GitHub Pages.
+Here are some key features of the conference:
 
-### Sponsors:
+<ul style="font-size: 1.2em;">
+  <li>**Workshops:** Interactive sessions with industry experts</li>
+  <li>**Keynote Speakers:** Renowned academics and practitioners</li>
+  <li>**Networking Opportunities:** Meet with peers and professionals</li>
+  <li>**Special Events:** Social gatherings and special sessions</li>
+</ul>
 
-GtG Ljubljana 2025 is generously supported by
+## Organised by:
 
-- Sponsor 1
-- Sponsor 2
-
-### Organised by:
-
-**Urban Jezernik**, **Matjes** and **Andoni Zozaya**.
+<ul style="font-size: 1.2em;">
+  <li>**Day 1:** Opening Ceremony, Keynote Speeches, and Workshops</li>
+  <li>**Day 2:** Panel Discussions, Networking Events, and More Workshops</li>
+  <li>**Day 3:** Closing Ceremony and Farewell Lunch</li>
+</ul>
