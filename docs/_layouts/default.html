@@ -29,11 +29,11 @@
       padding: 20px; /* Optional: Add padding if needed */
     }
 
-@media (max-width: 768px) {
-  .header {
-    height: 30vh; /* Adjust height for smaller screens */
-  }
-}
+    @media (max-width: 768px) {
+      .header {
+        height: 30vh; /* Adjust height for smaller screens */
+      }
+    }
 
     .header h1 {
       font-size: 4em; /* Larger font size for the main title */
@@ -60,9 +60,16 @@
     }
 
     .subtitle p {
-      font-size: 1.2 em; /* Larger size for subtitle lines */
+      font-size: 1.2em; /* Larger size for subtitle lines */
       margin: 0;
       line-height: 1.5; /* Adjust line height */
+    }
+
+    .content {
+      width: 80%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
     }
   </style>
 </head>
@@ -70,7 +77,7 @@
   <header class="header">
     <h1>Groups and Topological Groups</h1>
   </header>
-  <main>
+  <main class="content">
     {{ content }}
   </main>
 </body>
