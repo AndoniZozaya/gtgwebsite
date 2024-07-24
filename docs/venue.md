@@ -27,7 +27,7 @@ title: Venue
     <h2>Address</h2>
     <p>Faculty of Mathematics and Physics<br>
     Jadranska cesta 19<br>
-    1000 Ljubljana<br>
-    Slovenia</p>
+    1000 Ljubljana <br>
+    Slovenia </p>
   </div>
 </div>
