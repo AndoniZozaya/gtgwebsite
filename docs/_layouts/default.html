@@ -50,12 +50,7 @@
 
     .subtitle h2 {
       font-size: 2em; /* Larger size for the secondary title */
-      font-weight: bold; 
-      margin: 0;
-    }
-
-    .subtitle h3 {
-      font-size: 1.75em; /* Larger size for the secondary title */
+      font-weight: bold;
       margin: 0;
     }
 
@@ -65,93 +60,35 @@
       line-height: 1.5; /* Adjust line height */
     }
 
-    .content {
-      width: 70%; /* Reduce width to increase side margins */
-      max-width: 1000px; /* Optional: Reduce max-width */
-      margin: 0 auto;
-      padding: 40px; /* Increase padding for more space inside the content area */
-    }
-
-    /* Intro box styling */
     .intro-box {
-      background-color: #f0f0f0; /* Light gray background */
-      border: 1px solid #dcdcdc; /* Light gray border */
-      padding: 20px; /* Space inside the box */
-      margin-bottom: 20px; /* Space below the box */
-      border-radius: 8px; /* Rounded corners (optional) */
+      background-color: #f5f5f5; /* Light gray background */
+      border: 1px solid #ddd; /* Border color */
+      padding: 20px; /* Padding inside the box */
+      margin: 20px; /* Margin around the box */
+      border-radius: 8px; /* Rounded corners */
     }
 
-    /* Venue page styling */
-    .venue-header {
-      background-image: url("{{ '/math-faculty.jpg' | relative_url }}"); /* Background image for the venue page */
-      background-size: cover;
-      background-position: center;
-      height: 300px; /* Height for the header image */
-      color: white;
-      text-align: center;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-      padding: 20px; /* Padding inside the header */
-    }
-
-    .venue-header h1 {
-      font-size: 3em; /* Font size for the title */
-      margin: 0;
-    }
-
-    .venue-description {
-      text-align: center;
-      padding: 10px; /* Reduced padding */
-      margin-bottom: 20px; /* Space below the description */
-    }
-
-    .venue-info {
-      display: flex;
-      justify-content: space-between;
-      gap: 10px; /* Reduced gap between map and address */
-      margin-top: 10px; /* Reduced margin at the top */
-    }
-
-    .venue-info .map,
-    .venue-info .address {
-      flex: 1;
-    }
-
-    .venue-info .map iframe {
-      width: 100%;
-      height: 300px;
-      border: 0;
-    }
-
-    .venue-info .address {
-      padding: 10px; /* Reduced padding inside the address box */
-      border: 1px solid #dcdcdc; /* Border for the address box */
-      background-color: #f9f9f9; /* Background color for the address box */
-      border-radius: 8px; /* Rounded corners (optional) */
-    }
-
-    .venue-info .address h2 {
-      font-size: 1.75em; /* Larger font size for the address title */
-      font-weight: bold; /* Bold text */
-      margin-top: 0;
-      margin-bottom: 10px; /* Space below the title */
-    }
-
-    .venue-info .address p {
-      font-size: 1.2em; /* Font size for the address details */
+    .intro-box p {
       margin: 0; /* Remove default margin */
-      line-height: 1.5; /* Adjust line height */
+      font-size: 1.2em; /* Font size for text */
+      line-height: 1.5; /* Line height */
+    }
+
+    .content {
+      padding: 20px; /* Padding for content */
     }
   </style>
 </head>
 <body>
   <header class="header">
-    <h1>Groups and Topological Groups</h1>
+    <h1>{{ page.title }}</h1>
   </header>
   <main class="content">
     {{ content }}
   </main>
+  <!-- Optional footer section -->
+  <footer style="text-align: center; padding: 20px; background-color: #f1f1f1;">
+    <p>&copy; {{ site.time | date: "%Y" }} GtG Ljubljana. All rights reserved.</p>
+  </footer>
 </body>
 </html>
