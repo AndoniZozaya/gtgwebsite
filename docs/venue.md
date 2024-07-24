@@ -10,6 +10,11 @@ title: Venue
   <p>The conference will be held in the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
 </div>
 
+<!-- Home link -->
+<p style="text-align: center;">
+  <a href="{{ '/' | relative_url }}">Back to Home</a>
+</p>
+
 <div class="venue-info">
   <div class="map">
     <iframe
@@ -24,7 +29,9 @@ title: Venue
   </div>
   <div class="address">
     <h2>Address</h2>
-    <p>Faculty of Mathematics and Physics, University of Ljubljana<br>
-    Jadranska cesta 19, 1000 Ljubljana, Slovenia</p>
+    <p>Faculty of Mathematics and Physics<br>
+    Jadranska cesta 19<br>
+    1000 Ljubljana<br>
+    Slovenia</p>
   </div>
 </div>
