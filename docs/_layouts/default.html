@@ -103,14 +103,15 @@
 
     .venue-description {
       text-align: center;
-      padding: 20px;
+      padding: 10px; /* Reduced padding */
+      margin-bottom: 20px; /* Space below the description */
     }
 
     .venue-info {
       display: flex;
       justify-content: space-between;
-      gap: 20px;
-      margin-top: 20px;
+      gap: 10px; /* Reduced gap between map and address */
+      margin-top: 10px; /* Reduced margin at the top */
     }
 
     .venue-info .map,
@@ -125,15 +126,23 @@
     }
 
     .venue-info .address {
-      padding: 20px;
+      padding: 10px; /* Reduced padding inside the address box */
       border: 1px solid #dcdcdc; /* Border for the address box */
       background-color: #f9f9f9; /* Background color for the address box */
       border-radius: 8px; /* Rounded corners (optional) */
     }
 
     .venue-info .address h2 {
-      font-size: 1.5em; /* Font size for the address title */
+      font-size: 1.75em; /* Larger font size for the address title */
+      font-weight: bold; /* Bold text */
       margin-top: 0;
+      margin-bottom: 10px; /* Space below the title */
+    }
+
+    .venue-info .address p {
+      font-size: 1.2em; /* Font size for the address details */
+      margin: 0; /* Remove default margin */
+      line-height: 1.5; /* Adjust line height */
     }
   </style>
 </head>
