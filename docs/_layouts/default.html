@@ -72,13 +72,68 @@
       padding: 40px; /* Increase padding for more space inside the content area */
     }
 
-    /* Add the intro-box style here */
+    /* Intro box styling */
     .intro-box {
       background-color: #f0f0f0; /* Light gray background */
       border: 1px solid #dcdcdc; /* Light gray border */
       padding: 20px; /* Space inside the box */
       margin-bottom: 20px; /* Space below the box */
       border-radius: 8px; /* Rounded corners (optional) */
+    }
+
+    /* Venue page styling */
+    .venue-header {
+      background-image: url("{{ '/math-faculty.jpg' | relative_url }}"); /* Background image for the venue page */
+      background-size: cover;
+      background-position: center;
+      height: 300px; /* Height for the header image */
+      color: white;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      padding: 20px; /* Padding inside the header */
+    }
+
+    .venue-header h1 {
+      font-size: 3em; /* Font size for the title */
+      margin: 0;
+    }
+
+    .venue-description {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .venue-info {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .venue-info .map,
+    .venue-info .address {
+      flex: 1;
+    }
+
+    .venue-info .map iframe {
+      width: 100%;
+      height: 300px;
+      border: 0;
+    }
+
+    .venue-info .address {
+      padding: 20px;
+      border: 1px solid #dcdcdc; /* Border for the address box */
+      background-color: #f9f9f9; /* Background color for the address box */
+      border-radius: 8px; /* Rounded corners (optional) */
+    }
+
+    .venue-info .address h2 {
+      font-size: 1.5em; /* Font size for the address title */
+      margin-top: 0;
     }
   </style>
 </head>
