@@ -2,10 +2,6 @@
 title: Venue
 ---
 
-<div class="header venue-header">
-  <h1>Venue</h1>
-</div>
-
 <div class="venue-description">
   <p>The conference will be held in the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
 </div>
