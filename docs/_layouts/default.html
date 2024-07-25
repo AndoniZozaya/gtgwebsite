@@ -74,3 +74,34 @@
 
     .subtitle h2 {
       font-size: 2em;
+    }
+
+    .intro-box {
+      background-color: #f5f5f5;
+      border: 1px solid #ddd;
+      padding: 20px;
+      margin: 20px;
+      border-radius: 8px;
+    }
+
+    .content {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/venue.html' | relative_url }}">Venue</a>
+    </div>
+    <h1>{{ page.title }}</h1>
+  </header>
+  <main class="content container">
+    {{ content }}
+  </main>
+  <footer style="text-align: center; padding: 20px; background-color: #f1f1f1;">
+    <p>&copy; {{ site.time | date: "%Y" }} GtG Ljubljana. All rights reserved.</p>
+  </footer>
+</body>
+</html>
