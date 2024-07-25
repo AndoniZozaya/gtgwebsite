@@ -2,13 +2,6 @@
 title: Groups and Topological Groups
 ---
 
-<nav>
-  <ul>
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/venue.html' | relative_url }}">Venue</a></li>
-  </ul>
-</nav>
-
 <div class="subtitle">
   <h2 style="font-size: 2.5em;">GtG Ljubljana 2025</h2>
   <p style="font-size: 1.5em;">XX - XX January 2025</p>
@@ -20,11 +13,6 @@ title: Groups and Topological Groups
   <p>Gruppen und topologische Gruppen is a 2-day international meeting devoted to recent developments in group theory. The next GtG meeting will be held at the Faculty of Mathematics and Physics (FMF) in Ljubljana (Slovenia).</p>
   <p>The conference starts on Thursday, XXth of January 2025, in the afternoon.</p>
 </div>
-
-<!-- Venue link -->
-<p style="text-align: center;">
-  <a href="{{ '/venue.html' | relative_url }}">Learn more about the Venue</a>
-</p>
 
 ## Registration:
 
