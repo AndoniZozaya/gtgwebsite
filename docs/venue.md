@@ -3,13 +3,6 @@ title: Venue
 layout: default
 ---
 
-<nav>
-  <ul>
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/venue.html' | relative_url }}">Venue</a></li>
-  </ul>
-</nav>
-
 <div class="venue-description">
   <p>The conference will be held in the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
 </div>
