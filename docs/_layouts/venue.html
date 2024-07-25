@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600;400&display=swap"> <!-- Font Link -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600;400&display=swap">
   <style>
     body {
       font-family: 'Palanquin Dark', sans-serif;
@@ -15,35 +15,35 @@
     }
 
     .header {
-      background-image: url("{{ '/faculty.jpeg' | relative_url }}"); /* Background image for the venue page */
+      background-image: url("{{ '/faculty.jpeg' | relative_url }}");
       background-size: cover;
       background-position: center;
-      height: 300px; /* Height for the header image */
+      height: 300px;
       color: white;
       text-align: center;
       display: flex;
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      padding: 20px; /* Padding inside the header */
+      padding: 20px;
     }
 
     .header h1 {
-      font-size: 3em; /* Font size for the title */
+      font-size: 3em;
       margin: 0;
     }
 
     .venue-description {
       text-align: center;
-      padding: 10px; /* Reduced padding */
-      margin-bottom: 20px; /* Space below the description */
+      padding: 10px;
+      margin-bottom: 20px;
     }
 
     .venue-info {
       display: flex;
       justify-content: space-between;
-      gap: 10px; /* Reduced gap between map and address */
-      margin-top: 10px; /* Reduced margin at the top */
+      gap: 10px;
+      margin-top: 10px;
     }
 
     .venue-info .map,
@@ -58,5 +58,29 @@
     }
 
     .venue-info .address {
-      padding: 10px; /* Reduced padding inside the address box */
-   
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>{{ page.title }}</h1>
+  </header>
+  <main class="content">
+    <section class="venue-description">
+      <p>Aquí puedes agregar una descripción breve del lugar.</p>
+    </section>
+    <section class="venue-info">
+      <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3162.935639840121!2d-122.08424968469547!3d37.42199997982581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba5c6a040bb7%3A0x4c2b4f1b3624c222!2sGoogleplex" allowfullscreen="" loading="lazy"></iframe>
+      </div>
+      <div class="address">
+        <p>1234 Venue Address<br>City, State, ZIP Code</p>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} GtG Ljubljana. All rights reserved.</p>
+  </footer>
+</body>
+</html>
