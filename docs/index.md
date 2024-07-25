@@ -4,7 +4,7 @@ title: Groups and Topological Groups
 
 <nav>
   <ul>
-    <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
     <li><a href="{{ '/venue.html' | relative_url }}">Venue</a></li>
   </ul>
 </nav>
