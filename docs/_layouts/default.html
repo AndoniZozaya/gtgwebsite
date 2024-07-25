@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600;400&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600;400&display=swap"> <!-- Font Link -->
   <style>
     body {
       font-family: 'Palanquin Dark', sans-serif;
@@ -14,52 +14,108 @@
       padding: 0;
     }
 
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px; /* Margen izquierdo y derecho */
+    }
+
     .header {
       background-image: url("{{ '/background.jpg' | relative_url }}");
       background-size: cover;
       background-position: center;
-      height: 400px;
+      height: 400px; /* Increased height for the header image */
       color: white;
       text-align: center;
       display: flex;
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      padding: 20px;
+      position: relative;
+      padding: 20px; /* Optional: Add padding if needed */
+    }
+
+    .nav-links {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      gap: 15px;
+      font-size: 1.1em;
+    }
+
+    .nav-links a {
+      color: white;
+      text-decoration: none;
+      text-transform: uppercase; /* Enlaces en mayúsculas */
     }
 
     @media (max-width: 768px) {
       .header {
-        height: 30vh;
+        height: 30vh; /* Adjust height for smaller screens */
+      }
+      .nav-links {
+        font-size: 0.9em;
       }
     }
 
     .header h1 {
-      font-size: 4em;
+      font-size: 4em; /* Larger font size for the main title */
       font-weight: 600;
       margin: 0;
-      line-height: 1.2;
+      line-height: 1.2; /* Adjust line height if needed */
+    }
+
+    .subtitle {
+      text-align: center;
+      margin: 10px 0; /* Increased margin for spacing below the header */
+      font-size: 1.5em; /* Adjust size as needed */
+    }
+
+    .subtitle h2 {
+      font-size: 2em; /* Larger size for the secondary title */
+      font-weight: bold;
+      margin: 0;
+    }
+
+    .subtitle p {
+      font-size: 1.2em; /* Larger size for subtitle lines */
+      margin: 0;
+      line-height: 1.5; /* Adjust line height */
+    }
+
+    .intro-box {
+      background-color: #f5f5f5; /* Light gray background */
+      border: 1px solid #ddd; /* Border color */
+      padding: 20px; /* Padding inside the box */
+      margin: 20px auto; /* Margin around the box */
+      border-radius: 8px; /* Rounded corners */
+    }
+
+    .intro-box p {
+      margin: 0; /* Remove default margin */
+      font-size: 1.2em; /* Font size for text */
+      line-height: 1.5; /* Line height */
     }
 
     .content {
-      padding: 20px;
-    }
-
-    footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #f1f1f1;
+      padding: 20px; /* Padding for content */
     }
   </style>
 </head>
 <body>
   <header class="header">
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/venue.html' | relative_url }}">Venue</a>
+    </div>
     <h1>{{ page.title }}</h1>
   </header>
-  <main class="content">
+  <main class="content container">
     {{ content }}
   </main>
-  <footer>
+  <!-- Optional footer section -->
+  <footer style="text-align: center; padding: 20px; background-color: #f1f1f1;">
     <p>&copy; {{ site.time | date: "%Y" }} GtG Ljubljana. All rights reserved.</p>
   </footer>
 </body>
