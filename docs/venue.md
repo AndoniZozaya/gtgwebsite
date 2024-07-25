@@ -3,6 +3,13 @@ title: Venue
 layout: default
 ---
 
+<nav>
+  <ul>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li><a href="{{ '/venue.html' | relative_url }}">Venue</a></li>
+  </ul>
+</nav>
+
 <div class="venue-description">
   <p>The conference will be held in the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
 </div>
@@ -10,7 +17,7 @@ layout: default
 <div class="venue-info">
   <div class="map">
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114855.51413210263!2d14.480863710258097!3d46.05126451228961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6fe7c63151f%3A0xaebf70811c9290f6!2sFaculty%20of%20Mathematics%20and%20Physics%2C%20University%20of%20Ljubljana!5e0!3m2!1sen!2ssi!4v1694379908834!5m2!1sen!2ssi](https://www.google.com/maps/place/Fakulteta+za+matematiko+in+fiziko+Univerze+v+Ljubljani/@46.0425413,14.486903,17z/data=!3m1!4b1!4m6!3m5!1s0x47652d43cae04a0d:0xa2dad74c68d88f87!8m2!3d46.0425376!4d14.4894726!16s%2Fg%2F1218xl35?hl=en&entry=ttu)"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114855.51413210263!2d14.480863710258097!3d46.05126451228961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6fe7c63151f%3A0xaebf70811c9290f6!2sFaculty%20of%20Mathematics%20and%20Physics%2C%20University%20of%20Ljubljana!5e0!3m2!1sen!2ssi!4v1694379908834!5m2!1sen!2ssi"
       width="100%"
       height="300"
       style="border:0;"
