@@ -2,6 +2,13 @@
 title: Groups and Topological Groups
 ---
 
+<nav>
+  <ul>
+    <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+    <li><a href="{{ '/venue.html' | relative_url }}">Venue</a></li>
+  </ul>
+</nav>
+
 <div class="subtitle">
   <h2 style="font-size: 2.5em;">GtG Ljubljana 2025</h2>
   <p style="font-size: 1.5em;">XX - XX January 2025</p>
