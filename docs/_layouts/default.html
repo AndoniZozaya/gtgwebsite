@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600;400&display=swap"> <!-- Font Link -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600;400&display=swap">
   <style>
     body {
       font-family: 'Palanquin Dark', sans-serif;
@@ -18,64 +18,37 @@
       background-image: url("{{ '/background.jpg' | relative_url }}");
       background-size: cover;
       background-position: center;
-      height: 400px; /* Increased height for the header image */
+      height: 400px;
       color: white;
       text-align: center;
       display: flex;
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      position: relative;
-      padding: 20px; /* Optional: Add padding if needed */
+      padding: 20px;
     }
 
     @media (max-width: 768px) {
       .header {
-        height: 30vh; /* Adjust height for smaller screens */
+        height: 30vh;
       }
     }
 
     .header h1 {
-      font-size: 4em; /* Larger font size for the main title */
+      font-size: 4em;
       font-weight: 600;
       margin: 0;
-      line-height: 1.2; /* Adjust line height if needed */
-    }
-
-    .subtitle {
-      text-align: center;
-      margin: 10px 0; /* Increased margin for spacing below the header */
-      font-size: 1.5em; /* Adjust size as needed */
-    }
-
-    .subtitle h2 {
-      font-size: 2em; /* Larger size for the secondary title */
-      font-weight: bold;
-      margin: 0;
-    }
-
-    .subtitle p {
-      font-size: 1.2em; /* Larger size for subtitle lines */
-      margin: 0;
-      line-height: 1.5; /* Adjust line height */
-    }
-
-    .intro-box {
-      background-color: #f5f5f5; /* Light gray background */
-      border: 1px solid #ddd; /* Border color */
-      padding: 20px; /* Padding inside the box */
-      margin: 20px; /* Margin around the box */
-      border-radius: 8px; /* Rounded corners */
-    }
-
-    .intro-box p {
-      margin: 0; /* Remove default margin */
-      font-size: 1.2em; /* Font size for text */
-      line-height: 1.5; /* Line height */
+      line-height: 1.2;
     }
 
     .content {
-      padding: 20px; /* Padding for content */
+      padding: 20px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #f1f1f1;
     }
   </style>
 </head>
@@ -86,8 +59,7 @@
   <main class="content">
     {{ content }}
   </main>
-  <!-- Optional footer section -->
-  <footer style="text-align: center; padding: 20px; background-color: #f1f1f1;">
+  <footer>
     <p>&copy; {{ site.time | date: "%Y" }} GtG Ljubljana. All rights reserved.</p>
   </footer>
 </body>
