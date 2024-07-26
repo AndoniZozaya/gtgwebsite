@@ -10,7 +10,7 @@ title: Groups and Topological Groups
 
 <!-- Intro box -->
 <div class="intro-box pale">
-  <p>Gruppen und topologische Gruppen is a 2-day international meeting devoted to recent developments in group theory. The next GtG meeting will be held at the Faculty of Mathematics and Physics (FMF) in Ljubljana (Slovenia).</p>
+  <p> <a href="https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit" target="_blank">Gruppen und topologische Gruppen</a> is a 2-day international meeting devoted to recent developments in group theory. The next GtG meeting will be held at the Faculty of Mathematics and Physics (FMF) in Ljubljana (Slovenia).</p>
   <p>The conference starts on Thursday, XXth of January 2025, in the afternoon.</p>
 </div>
 
