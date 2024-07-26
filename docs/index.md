@@ -16,7 +16,9 @@ title: Groups and Topological Groups
 
 ## Registration:
 
-Register [here](https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit)
+<div class="registration-box">
+  <p>Register [here](https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit)</p>
+</div>
 
 ## Speakers:
 
