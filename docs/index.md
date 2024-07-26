@@ -16,8 +16,7 @@ title: Groups and Topological Groups
 
 <!-- Registration box -->
 <div class="intro-box copper">
-  <h2 style="color: white;">Registration:</h2>
-  <p>Register <a href="https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit" target="_blank">here</a></p>
+  <h2 style="color: white;">Register <a href="https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit" target="_blank">here</a></h2>
 </div>
 
 ## <span style="color: #b87333;">Speakers</span>
