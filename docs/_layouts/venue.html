@@ -21,7 +21,7 @@
     }
 
     .header {
-      background-image: url("{{ '/faculty.jpeg' | relative_url }}"); /* Cambiado a faculty.jpeg */
+      background-image: url("{{ '/docs/faculty.jpeg' | relative_url }}"); /* Ruta actualizada a docs/faculty.jpeg */
       background-size: cover;
       background-position: center;
       height: 300px; /* Height for the header image */
@@ -61,6 +61,7 @@
 
     .header h1 {
       font-size: 3em; /* Font size for the title */
+      color: white; /* Color blanco para el título "VENUE" */
       margin: 0;
     }
 
@@ -73,4 +74,69 @@
     .venue-info {
       display: flex;
       justify-content: space-between;
-      gap: 10px;
+      align-items: flex-start; /* Alinea los elementos al inicio verticalmente */
+      gap: 10px; /* Reduced gap between map and address */
+      margin-top: 10px; /* Reduced margin at the top */
+    }
+
+    .venue-info .map {
+      flex: 1;
+    }
+
+    .venue-info .map iframe {
+      width: 100%;
+      height: 300px;
+      border: 0;
+    }
+
+    .venue-info .address {
+      flex: 1;
+      text-align: center; /* Centra el texto de la dirección */
+      padding: 10px; /* Reduced padding inside the address box */
+      background-color: #f5f5f5; /* Opcional: Color de fondo para la dirección */
+    }
+
+    .content {
+      padding: 20px; /* Padding for content */
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/venue.html' | relative_url }}">Venue</a>
+    </div>
+    <h1>{{ page.title }}</h1>
+  </header>
+  <main class="content container">
+    <div class="venue-description">
+      <p>The conference will be held in the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
+    </div>
+    <div class="venue-info">
+      <div class="map">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114855.51413210263!2d14.480863710258097!3d46.05126451228961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6fe7c63151f%3A0xaebf70811c9290f6!2sFaculty%20of%20Mathematics%20and%20Physics%2C%20University%20of%20Ljubljana!5e0!3m2!1sen!2ssi!4v1694379908834!5m2!1sen!2ssi"
+          width="100%"
+          height="300"
+          style="border:0;"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
+      </div>
+      <div class="address">
+        <h2>Address</h2>
+        <p>Faculty of Mathematics and Physics<br>
+        Jadranska cesta 19<br>
+        1000 Ljubljana<br>
+        Slovenia</p>
+      </div>
+    </div>
+  </main>
+  <!-- Optional footer section -->
+  <footer style="text-align: center; padding: 20px; background-color: #f1f1f1;">
+    <p>&copy; {{ site.time | date: "%Y" }} GtG Ljubljana. All rights reserved.</p>
+  </footer>
+</body>
+</html>
