@@ -3,20 +3,20 @@ title: Groups and Topological Groups
 ---
 
 <div class="subtitle">
-  <h2 style="font-size: 2.5em; color: #b87333;">GtG Ljubljana 2025</h2>
-  <p style="font-size: 1.5em;">XX - XX January 2025</p>
-  <p style="font-size: 1.1em;">University of Ljubljana</p>
+  <h2 style="font-size: 2.5em; text-align: center; margin: 0;">GtG Ljubljana 2025</h2>
+  <p style="font-size: 1.5em; text-align: center; font-weight: bold; margin: 0;">XX - XX January 2025</p>
+  <p style="font-size: 1.1em; text-align: center; margin: 0;">University of Ljubljana</p>
 </div>
 
 <!-- Intro box -->
-<div class="intro-box" style="background-color: #f5f5f5; color: black; border: 1px solid #ddd;">
+<div class="intro-box pale">
   <p>Gruppen und topologische Gruppen is a 2-day international meeting devoted to recent developments in group theory. The next GtG meeting will be held at the Faculty of Mathematics and Physics (FMF) in Ljubljana (Slovenia).</p>
   <p>The conference starts on Thursday, XXth of January 2025, in the afternoon.</p>
 </div>
 
 <!-- Registration box -->
-<div class="intro-box" style="background-color: #b87333; color: white; border: 1px solid #b87333;">
-  <h2 style="color: white;">Registration</h2>
+<div class="intro-box copper">
+  <h2 style="color: white;">Registration:</h2>
   <p>Register [here](https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit)</p>
 </div>
 
@@ -28,7 +28,7 @@ Every talk at the conference will be contributed. To submit your proposal, pleas
 
 ## Conference dinner:
 
-The conference dinner will take place at XX on Thursday XX.
+The conference dinner will take place at XX on Thursday XX. 
 
 ## Organised by:
 
