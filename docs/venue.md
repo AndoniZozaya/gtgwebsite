@@ -20,9 +20,12 @@ title: Venue
   </div>
   <div class="address">
     <h2>Address</h2>
-    <p>Faculty of Mathematics and Physics<br>
-    Jadranska cesta 19<br>
-    1000 Ljubljana<br>
-    Slovenia</p>
+    <div style="text-align: center; padding: 10px; background-color: #f5f5f5; border-radius: 8px; border: 1px solid #ddd;">
+      <p>Faculty of Mathematics and Physics<br>
+      Jadranska cesta 19<br>
+      1000 Ljubljana<br>
+      Slovenia</p>
+    </div>
   </div>
 </div>
+
