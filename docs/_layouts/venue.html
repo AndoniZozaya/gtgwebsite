@@ -17,14 +17,14 @@
     .container {
       max-width: 1200px;
       margin: 0 auto;
-      padding: 0 20px; /* Margen izquierdo y derecho */
+      padding: 0 20px;
     }
 
     .header {
-      background-image: url("{{ '/faculty.jpeg' | relative_url }}"); /* Cambiado a faculty.jpeg */
+      background-image: url("{{ '/faculty.jpeg' | relative_url }}");
       background-size: cover;
       background-position: center;
-      height: 300px; /* Height for the header image */
+      height: 300px;
       color: white;
       text-align: center;
       display: flex;
@@ -32,30 +32,53 @@
       align-items: center;
       flex-direction: column;
       position: relative;
-      padding: 20px; /* Padding inside the header */
+      padding: 20px;
+    }
+
+    .nav-links {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      gap: 15px;
+      font-size: 1.1em;
+    }
+
+    .nav-links a {
+      color: white;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+    @media (max-width: 768px) {
+      .header {
+        height: 30vh;
+      }
+      .nav-links {
+        font-size: 0.9em;
+      }
     }
 
     .header h1 {
-      font-size: 3em; /* Font size for the title */
+      font-size: 3em;
       margin: 0;
-      color: white; /* Color blanco para el texto de la cabecera */
+      color: white; /* Ensure header text is white */
     }
 
     .venue-description {
       text-align: center;
       padding: 10px;
-      margin-bottom: 20px; /* Space below the description */
+      margin-bottom: 20px;
     }
 
     .venue-info {
       display: flex;
       justify-content: space-between;
-      gap: 10px; /* Reduced gap between map and address */
-      margin-top: 10px; /* Reduced margin at the top */
+      gap: 20px;
+      margin-top: 10px;
     }
 
-    .venue-info .map,
-    .venue-info .address {
+    .venue-info .map {
       flex: 1;
     }
 
@@ -66,19 +89,22 @@
     }
 
     .venue-info .address {
+      flex: 1;
       padding: 10px;
-      text-align: center; /* Center the address text */
-      background-color: #f5f5f5; /* Optional: Background color for the address */
+      text-align: center; /* Center address text */
     }
 
-    .venue-info .address h2 {
-      color: #b87333; /* Color cobre para los títulos de la dirección */
-    }
-
-    footer {
-      text-align: center;
+    .content {
       padding: 20px;
-      background-color: #f1f1f1;
+    }
+
+    .intro-box {
+      background-color: #b87333;
+      color: white;
+      border: 1px solid #b87333;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
     }
   </style>
 </head>
@@ -115,7 +141,7 @@
       </div>
     </div>
   </main>
-  <footer>
+  <footer style="text-align: center; padding: 20px; background-color: #f1f1f1;">
     <p>&copy; {{ site.time | date: "%Y" }} GtG Ljubljana. All rights reserved.</p>
   </footer>
 </body>
