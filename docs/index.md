@@ -20,20 +20,20 @@ title: Groups and Topological Groups
   <p>Register [here](https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit)</p>
 </div>
 
-## Speakers:
+## <span style="color: #b87333;">Speakers</span>:
 
 Every talk at the conference will be contributed. To submit your proposal, please fill out the [form](https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit) with your title and summary.
 
 **The deadline for submitting contributed talk proposals is November 3rd.**
 
-## Conference dinner:
+## <span style="color: #b87333;">Conference dinner</span>:
 
 The conference dinner will take place at XX on Thursday XX. 
 
-## Organised by:
+## <span style="color: #b87333;">Organised by:</span>:
 
 **Urban Jezernik**, **Matjes** and **Andoni Zozaya**.
 
-## Sponsors:
+## <span style="color: #b87333;">Sponsors:</span>:
 
 GtG Ljubljana 2025 is generously supported by
