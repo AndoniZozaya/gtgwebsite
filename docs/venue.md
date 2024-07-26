@@ -1,6 +1,5 @@
 ---
 title: Venue
-layout: default
 ---
 
 <div class="venue-description">
@@ -27,7 +26,3 @@ layout: default
     Slovenia</p>
   </div>
 </div>
-
-<p style="text-align: center;">
-  <a href="{{ '/' | relative_url }}">Back to Home</a>
-</p>
