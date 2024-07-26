@@ -47,7 +47,7 @@
     .nav-links a {
       color: white;
       text-decoration: none;
-      text-transform: uppercase;
+      text-transform: uppercase; /* Enlaces en mayúsculas */
     }
 
     @media (max-width: 768px) {
@@ -111,8 +111,8 @@
 <body>
   <header class="header">
     <div class="nav-links">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/venue.html' | relative_url }}">Venue</a>
+      <a href="{{ '/' | relative_url }}">HOME</a>
+      <a href="{{ '/venue.html' | relative_url }}">VENUE</a>
     </div>
     <h1>{{ page.title }}</h1>
   </header>
