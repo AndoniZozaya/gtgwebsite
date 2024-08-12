@@ -21,7 +21,7 @@ title: Groups and Topological Groups
 
 ## <span style="color: #b87333;">Speakers</span>
 
-Every talk at the conference will be contributed. To submit your proposal, please fill out the [form]() with your title and summary.
+Every talk at the conference will be contributed. To submit your proposal, please fill out the [form](https://docs.google.com/forms/d/1K9vtkfwnXZ5vYW452hy5jsl3zfYj9n-BhZzzpI2_4dg/edit#settings) with your title and summary.
 
 **The deadline for submitting contributed talk proposals is November XX.**
 
