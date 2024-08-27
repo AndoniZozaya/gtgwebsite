@@ -32,16 +32,14 @@ Every talk at the conference will be contributed. To submit your proposal, pleas
 
 ## <span style="color: #b87333;">Sponsors:</span>
 
-<p>GtG Ljubljana 2025 is generously supported by:</p>
-<ul style="list-style: none; padding: 0;">
-  <li>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center;">
     <strong>Faculty of Mathematics and Physics, University of Ljubljana</strong><br>
     <img src="fmf.jpeg" alt="FMF Logo" style="width: 150px; height: auto;">
-  </li>
-  <li>
+  </div>
+  <div style="text-align: center;">
     <strong>Aris Research Project XXXX</strong><br>
     <img src="aris.jpeg" alt="Aris Logo" style="width: 150px; height: auto;">
-  </li>
-</ul>
-
+  </div>
+</div>
 
