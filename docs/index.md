@@ -34,12 +34,12 @@ To propose a talk, please fill out the [form](https://docs.google.com/forms/d/1K
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="text-align: center;">
-    <strong>Faculty of Mathematics and Physics, University of Ljubljana</strong><br>
-    <img src="fmf.jpg" alt="FMF Logo" style="width: 150px; height: auto;">
+    <strong>Faculty of Mathematics and Physics</strong><br>
+    <img src="fmf.jpg" alt="FMF Logo" style="width: 100px; height: auto;">
   </div>
   <div style="text-align: center;">
-    <strong>Aris Research Project XXXX</strong><br>
-    <img src="aris.jpg" alt="Aris Logo" style="width: 150px; height: auto;">
+    <strong>Aris Research Project  J1-50001</strong><br>
+    <img src="aris.jpg" alt="Aris Logo" style="width: 100px; height: auto;">
   </div>
 </div>
 
