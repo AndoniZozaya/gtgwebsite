@@ -17,7 +17,7 @@ title: Groups and Topological Groups
 <!-- Registration box -->
 <div class="intro-box copper">
   <h2 style="color: white;">Register <a href="https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit" target="_blank">here</a></h2>
-  <p style="color: white; font-weight: bold;">The registration deadline is December 31st.</p>
+  <p style="color: white; font-weight: bold;">The deadline for registration is December 31st.</p>
 </div>
 
 ## <span style="color: #b87333;">Speakers</span>
@@ -35,11 +35,11 @@ Every talk at the conference will be contributed. To submit your proposal, pleas
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="text-align: center;">
     <strong>Faculty of Mathematics and Physics, University of Ljubljana</strong><br>
-    <img src="fmf.jpeg" alt="FMF Logo" style="width: 150px; height: auto;">
+    <img src="fmf.jpg" alt="FMF Logo" style="width: 150px; height: auto;">
   </div>
   <div style="text-align: center;">
     <strong>Aris Research Project XXXX</strong><br>
-    <img src="aris.jpeg" alt="Aris Logo" style="width: 150px; height: auto;">
+    <img src="aris.jpg" alt="Aris Logo" style="width: 150px; height: auto;">
   </div>
 </div>
 
