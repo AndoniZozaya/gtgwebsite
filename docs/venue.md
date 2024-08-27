@@ -4,7 +4,7 @@ title: Venue
 ---
 
 <div class="venue-description">
-  <p>The conference will be held in the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
+  <p>The conference will be held in the **Room 2.02** of the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
 </div>
 
 <div class="venue-info">
