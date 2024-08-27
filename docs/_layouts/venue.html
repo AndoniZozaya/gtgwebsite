@@ -82,19 +82,34 @@
       flex: 1;
     }
 
-    .venue-info .map iframe {
+    .venue-info .map img {
       width: 100%;
-      height: 300px;
-      border: 0;
+      height: auto;
     }
 
     .venue-info .address {
       padding: 10px;
-      text-align: center; /* Center text inside address box */
+      text-align: center;
     }
 
     .content {
       padding: 20px;
+    }
+
+    .directions {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-left: 4px solid #b87333;
+    }
+
+    .directions p {
+      margin: 5px 0;
+    }
+
+    .directions a {
+      color: #b87333;
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -112,15 +127,8 @@
     </div>
     <div class="venue-info">
       <div class="map">
-        <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114855.51413210263!2d14.480863710258097!3d46.05126451228961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6fe7c63151f%3A0xaebf70811c9290f6!2sFaculty%20of%20Mathematics%20and%20Physics%2C%20University%20of%20Ljubljana!5e0!3m2!1sen!2ssi!4v1694379908834!5m2!1sen!2ssi"
-          width="100%"
-          height="300"
-          style="border:0;"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
-        ></iframe>
+        <!-- Reemplazar el iframe con una imagen estática de Google Maps -->
+        <img src="https://maps.googleapis.com/maps/api/staticmap?center=Faculty+of+Mathematics+and+Physics,+Ljubljana,+Slovenia&zoom=15&size=600x300&markers=color:red%7Clabel:F%7CFaculty+of+Mathematics+and+Physics,+Ljubljana,+Slovenia&key=YOUR_API_KEY" alt="Map of Faculty of Mathematics and Physics, Ljubljana">
       </div>
       <div class="address">
         <h2>Address</h2>
@@ -129,6 +137,13 @@
         1000 Ljubljana<br>
         Slovenia</p>
       </div>
+    </div>
+
+    <!-- Nueva sección de direcciones -->
+    <div class="directions">
+      <h3>How to reach the university:</h3>
+      <p><strong>From the train/bus station:</strong> Take bus numbers 1 & 6.</p>
+      <p><strong>From the airport:</strong> There are buses to the bus station (bus number XX), or you can book a <a href="https://www.goopti.com" target="_blank">GoOpti</a> shuttle from the airport.</p>
     </div>
   </main>
   <footer style="text-align: center; padding: 20px; background-color: #f1f1f1;">
