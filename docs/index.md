@@ -32,14 +32,13 @@ To propose a talk, please fill out the [form](https://docs.google.com/forms/d/1K
 
 ## <span style="color: #b87333;">Sponsors:</span>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <strong>Faculty of Mathematics and Physics</strong>
-    <img src="fmf.jpg" alt="FMF Logo" style="width: 300px; height: auto;">
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <strong>Aris Research Project J1-50001</strong>
-    <img src="aris.jpg" alt="Aris Logo" style="width: 300px; height: auto;">
-  </div>
-</div>
-
+<table style="width: 100%; text-align: center; margin: 0 auto;">
+  <tr>
+    <td style="padding-bottom: 10px;"><strong>Faculty of Mathematics and Physics</strong></td>
+    <td style="padding-bottom: 10px;"><strong>Aris Research Project J1-50001</strong></td>
+  </tr>
+  <tr>
+    <td><img src="fmf.jpg" alt="FMF Logo" style="width: 300px; height: auto;"></td>
+    <td><img src="aris.jpg" alt="Aris Logo" style="width: 300px; height: auto;"></td>
+  </tr>
+</table>
