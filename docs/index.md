@@ -16,8 +16,8 @@ title: Groups and Topological Groups
 
 <!-- Registration box -->
 <div class="intro-box pale">
-  <h2 style="color: white;">Register <a href="https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit" target="_blank">here</a></h2>
-  <p style="color: white; font-weight: bold;">The deadline for registration is December 31st.</p>
+  <h2>Register <a href="https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit" target="_blank">here</a></h2>
+  <p style="font-weight: bold;">The deadline for registration is December 31st.</p>
 </div>
 
 ## <span style="color: #E03127;">Speakers</span>
