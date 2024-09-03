@@ -129,29 +129,7 @@
     <h1>{{ page.title }}</h1>
   </header>
   <main class="content container">
-    <div class="venue-description">
-      <p>The conference will be held in the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
-    </div>
-    <div class="venue-info">
-      <div class="map">
-        <!-- Reemplazar el iframe con una imagen estática de Google Maps -->
-        <img src="https://maps.googleapis.com/maps/api/staticmap?center=Faculty+of+Mathematics+and+Physics,+Ljubljana,+Slovenia&zoom=15&size=600x300&markers=color:red%7Clabel:F%7CFaculty+of+Mathematics+and+Physics,+Ljubljana,+Slovenia&key=YOUR_API_KEY" alt="Map of Faculty of Mathematics and Physics, Ljubljana">
-      </div>
-      <div class="address">
-        <h2>Address</h2>
-        <p>Faculty of Mathematics and Physics<br>
-        Jadranska cesta 19<br>
-        1000 Ljubljana<br>
-        Slovenia</p>
-      </div>
-    </div>
-
-    <!-- Nueva sección de direcciones -->
-    <div class="intro-box pale">
-      <h3>How to reach the university</h3>
-      <p><strong>From the train/bus station:</strong> Take bus numbers 1 or 6.</p>
-      <p><strong>From the Jože Pučnik airport (LJB):</strong> There are <a href="https://www.lju-airport.si/en/transport/bus/" target="_blank">public buses</a> to the bus station, or you can book a <a href="https://www.goopti.com" target="_blank">GoOpti</a> shuttle from the airport.</p>
-    </div>
+    {{ content }}
   </main>
   <footer style="text-align: center; padding: 20px; background-color: #f1f1f1;">
     <p>&copy; {{ site.time | date: "%Y" }} GtG Ljubljana. All rights reserved.</p>
