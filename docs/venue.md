@@ -3,13 +3,16 @@ layout: venue
 title: Venue
 ---
 
-The conference will be held in the **Room 2.02** of the Faculty of Mathematics and Physics at the University of Ljubljana.
+The conference will be held in **Classroom 2.02** of the Faculty of Mathematics and Physics at the University of Ljubljana.
 
 ## <span style="color: #E03127;">Address</span>
 
 Faculty of Mathematics and Physics
+
 Jadranska cesta 19
+
 1000 Ljubljana
+
 Slovenia
 
 ## <span style="color: #E03127;">Map</span>
