@@ -26,5 +26,11 @@ title: Venue
     1000 Ljubljana<br>
     Slovenia</p>
   </div>
+
+      <div class="intro-box pale">
+      <h3>How to reach the university</h3>
+      <p><strong>From the train/bus station:</strong> Take bus numbers 1 or 6.</p>
+      <p><strong>From the Jože Pučnik airport (LJB):</strong> There are <a href="https://www.lju-airport.si/en/transport/bus/" target="_blank">public buses</a> to the bus station, or you can book a <a href="https://www.goopti.com" target="_blank">GoOpti</a> shuttle from the airport.</p>
+    </div>
 </div>
 
