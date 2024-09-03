@@ -3,9 +3,16 @@ layout: venue
 title: Venue
 ---
 
-<div class="venue-description">
-  <p>The conference will be held in the **Room 2.02** of the Faculty of Mathematics and Physics at the University of Ljubljana.</p>
-</div>
+The conference will be held in the **Room 2.02** of the Faculty of Mathematics and Physics at the University of Ljubljana.
+
+## <span style="color: #E03127;">Address</span>
+
+Faculty of Mathematics and Physics
+Jadranska cesta 19
+1000 Ljubljana
+Slovenia
+
+## <span style="color: #E03127;">Map</span>
 
 <div class="venue-info">
   <div class="map">
@@ -19,18 +26,10 @@ title: Venue
       referrerpolicy="no-referrer-when-downgrade"
     ></iframe>
   </div>
-  <div class="address">
-    <h2>Address</h2>
-    <p>Faculty of Mathematics and Physics<br>
-    Jadranska cesta 19<br>
-    1000 Ljubljana<br>
-    Slovenia</p>
-  </div>
-
-      <div class="intro-box pale">
-      <h3>How to reach the university</h3>
-      <p><strong>From the train/bus station:</strong> Take bus numbers 1 or 6.</p>
-      <p><strong>From the Jože Pučnik airport (LJB):</strong> There are <a href="https://www.lju-airport.si/en/transport/bus/" target="_blank">public buses</a> to the bus station, or you can book a <a href="https://www.goopti.com" target="_blank">GoOpti</a> shuttle from the airport.</p>
-    </div>
 </div>
 
+## <span style="color: #E03127;">How to reach the venue</span>
+
+**From the train/bus station:** Take bus numbers 1 or 6.
+
+**From the Jože Pučnik airport (LJB):** There are [public buses](https://www.lju-airport.si/en/transport/bus/) to the Ljubljana bus station. Alternatively, you can book a [shuttle](https://www.goopti.com) from the airport.
