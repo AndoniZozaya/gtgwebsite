@@ -20,17 +20,17 @@ title: Groups and Topological Groups
   <p style="color: white; font-weight: bold;">The deadline for registration is December 31st.</p>
 </div>
 
-## <span style="color: #b87333;">Speakers</span>
+## <span style="color: #E03127;">Speakers</span>
 
 To propose a talk, please fill out the [form](https://docs.google.com/forms/d/1K9vtkfwnXZ5vYW452hy5jsl3zfYj9n-BhZzzpI2_4dg/edit#settings) with your title and summary.
 
 **The deadline for submitting talk proposals is November 23rd.**
 
-## <span style="color: #b87333;">Organised by:</span>
+## <span style="color: #E03127;">Organised by</span>
 
 **Urban Jezernik**, **Matevž Miščič** and **Andoni Zozaya**.
 
-## <span style="color: #b87333;">Sponsors:</span>
+## <span style="color: #E03127;">Sponsors</span>
 
 <table style="width: 100%; text-align: center; margin: 0 auto;">
   <tr>
