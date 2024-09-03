@@ -24,7 +24,7 @@
       background-image: url("{{ '/background.jpeg' | relative_url }}");
       background-size: cover;
       background-position: center;
-      height: 200px; /* Increased height for the header image */
+      height: 400px; /* Increased height for the header image */
       color: #E03127;
       text-align: center;
       display: flex;
@@ -89,11 +89,9 @@
       color: black;
     }
 
-    .intro-box.paleopacity {
+    .intro-box.default {
       background-color: #E6E7E8;
       border: 1px solid #A7A8AA;
-      color: black;
-      opacity: 0.5;
     }
 
     .intro-box.copper {
@@ -112,6 +110,13 @@
     <div class="nav-links">
       <a href="{{ '/' | relative_url }}">HOME</a>
       <a href="{{ '/venue.html' | relative_url }}">VENUE</a>
+    </div>
+    <div class="intro-box default">
+      <div class="subtitle">
+        <h2 style="font-size: 2.5em; text-align: center; margin: 0;">GtG Ljubljana 2025</h2>
+        <p style="font-size: 1.5em; text-align: center; font-weight: bold; margin: 0;">23 - 24 January 2025</p>
+        <p style="font-size: 1.1em; text-align: center; margin: 0;">University of Ljubljana</p>
+      </div>
     </div>
   </header>
   <main class="content container">
