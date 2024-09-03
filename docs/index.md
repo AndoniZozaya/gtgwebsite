@@ -9,13 +9,13 @@ title: Groups and Topological Groups
 </div>
 
 <!-- Intro box -->
-<div class="intro-box pale">
+<div>
   <p><a href="https://www.gtgconference.eu/index.php" target="_blank">Gruppen und topologische Gruppen</a> is a 2-day international meeting devoted to recent developments in group theory. The next GtG meeting will be held at the Faculty of Mathematics and Physics (FMF) in Ljubljana (Slovenia).</p>
   <p>The conference starts on Thursday, 23rd of January 2025, in the morning, and finishes on Friday, 24th of January, in the afternoon.</p>
 </div>
 
 <!-- Registration box -->
-<div class="intro-box copper">
+<div class="intro-box pale">
   <h2 style="color: white;">Register <a href="https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit" target="_blank">here</a></h2>
   <p style="color: white; font-weight: bold;">The deadline for registration is December 31st.</p>
 </div>
