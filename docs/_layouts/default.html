@@ -114,6 +114,43 @@
     .content {
       padding: 20px;
     }
+
+/* Base Styles */
+.main-title {
+  font-size: 2.5em;
+  text-shadow: 1px 1px 2px #58595b;
+  margin: 0;
+  color: white;
+}
+
+.event-date,
+.event-location {
+  font-size: 1.5em;
+  margin: 0;
+  color: black;
+}
+
+/* Media Query for Tablets */
+@media (max-width: 768px) {
+  .main-title {
+    font-size: 2em;
+  }
+  .event-date,
+  .event-location {
+    font-size: 1.2em;
+  }
+}
+
+/* Media Query for Mobile Phones */
+@media (max-width: 480px) {
+  .main-title {
+    font-size: 1.5em;
+  }
+  .event-date,
+  .event-location {
+    font-size: 1em;
+  }
+}
   </style>
 </head>
 <body>
@@ -122,13 +159,13 @@
       <a href="{{ '/' | relative_url }}">HOME</a>
       <a href="{{ '/venue.html' | relative_url }}">VENUE</a>
     </div>
-    <div class="intro-box default">
-      <div class="subtitle">
-        <h2 style="font-size: 2.5em; text-shadow: 1px 1px 2px #58595b;">Groups and Topological Groups</h2>
-        <p style="font-size: 1.5em; margin: 0; font-weight: bold; color: black;">23 - 24 January 2025</p>
-        <p style="font-size: 1.5em; margin: 0; color: black;">University of Ljubljana</p>
-      </div>
+  <div class="intro-box default">
+    <div class="subtitle">
+      <h2 class="main-title">Groups and Topological Groups</h2>
+      <p class="event-date">23 - 24 January 2025</p>
+      <p class="event-location">University of Ljubljana</p>
     </div>
+  </div>
   </header>
   <main class="content container">
     {{ content }}
