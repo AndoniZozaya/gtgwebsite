@@ -35,4 +35,4 @@ Slovenia
 
 **From the train/bus station:** Take bus numbers 1 or 6.
 
-**From the Jože Pučnik airport (LJB):** There are [public buses](https://www.lju-airport.si/en/transport/bus/) to the Ljubljana bus station. Alternatively, you can book a [shuttle](https://www.goopti.com) from the airport.
+**From any of the nearby airports:** The closest airports are Ljubljana (20min from the city center), Trieste (1:30h), Zagreb (1:30h), and Venice (2:30h). If you are coming from the Ljubljana airport, you can take a [public bus](https://www.lju-airport.si/en/transport/bus/) to the city center. The easiest way of getting from any of the other airport to Ljubljana is with a [shuttle](https://www.goopti.com) (which you should book in advance).
