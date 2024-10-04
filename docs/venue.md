@@ -33,6 +33,6 @@ Slovenia
 
 ## <span style="color: #E03127;">How to reach the venue</span>
 
-**From the train/bus station:** Take bus numbers 1 or 6.
+**From the train/bus station/city center:** Take bus numbers 1 or 6. You can pay by card on the bus.
 
-**From any of the nearby airports:** The closest airports are Ljubljana (20min from the city center), Trieste (1:30h), Zagreb (1:30h), and Venice (2:30h). If you are coming from the Ljubljana airport, you can take a [public bus](https://www.lju-airport.si/en/transport/bus/) to the city center. The easiest way of getting from any of the other airport to Ljubljana is with a [shuttle](https://www.goopti.com) (which you should book in advance).
+**From any of the nearby airports:** The closest airports are Ljubljana (20min from the city center), Trieste (1:30h), Zagreb (1:30h), and Venice (2:30h). If you are coming from the Ljubljana airport, you can take a [public bus](https://www.lju-airport.si/en/transport/bus/) to the city center. The easiest way of getting to Ljubljana from any of the other airports is with a [shuttle](https://www.goopti.com) (which you should book in advance).
