@@ -16,15 +16,13 @@ title: Groups and Topological Groups
 
 ## <span style="color: #E03127;">Speakers</span>
 
-There will be four invited talks at the conference, given by:
+There will be four **invited talks** at the conference, given by:
 - [Jitendra Bajpai](https://user.math.uni-kiel.de/%7Ejitendra/) (University of Kiel)
 - [Daniele Dona](https://www.renyi.hu/en/researchers/daniele-dona) (Alfred Renyi Institute of Mathematics)
 - [Sean Eberhard](https://warwick.ac.uk/fac/sci/maths/people/staff/Eberhard) (University of Warwick)
 - [Francesco Fumagalli](https://sites.google.com/unifi.it/fumagalli/) (Universita degli Studi di Firenze)
 
-Additionally, we have several slots for contributed talks. To propose a talk, please fill out the [form](https://docs.google.com/forms/d/1K9vtkfwnXZ5vYW452hy5jsl3zfYj9n-BhZzzpI2_4dg/edit#settings) with your title and summary.
-
-**The deadline for submitting talk proposals is November 23rd.**
+Additionally, we have several slots for **contributed talks**. To propose a talk, please fill out the [form](https://docs.google.com/forms/d/1K9vtkfwnXZ5vYW452hy5jsl3zfYj9n-BhZzzpI2_4dg/edit#settings) with your title and summary. **The deadline for submitting talk proposals is November 23rd.**
 
 ## <span style="color: #E03127;">Organised by</span>
 
