@@ -26,7 +26,7 @@ Additionally, we have several slots for **contributed talks**. To propose a talk
 
 ## <span style="color: #E03127;">Organised by</span>
 
-[Urban Jezernik](https://sites.google.com/site/urbanjezernik/), Matevž Miščič and [Andoni Zozaya](https://sites.google.com/view/andonizozaya/orrialdea).
+[Urban Jezernik](https://sites.google.com/site/urbanjezernik/), [Matevž Miščič](https://sites.google.com/view/matevzmiscic) and [Andoni Zozaya](https://sites.google.com/view/andonizozaya/orrialdea).
 
 ## <span style="color: #E03127;">Sponsors</span>
 
