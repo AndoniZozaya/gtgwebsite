@@ -22,7 +22,7 @@ There will be four **invited talks** at the conference, given by:
 - [Sean Eberhard](https://warwick.ac.uk/fac/sci/maths/people/staff/Eberhard) (University of Warwick)
 - [Francesco Fumagalli](https://sites.google.com/unifi.it/fumagalli/) (Universita degli Studi di Firenze)
 
-Additionally, we have several slots for **contributed talks**. To propose a talk, please fill out the [form](https://docs.google.com/forms/d/1K9vtkfwnXZ5vYW452hy5jsl3zfYj9n-BhZzzpI2_4dg/edit#settings) with your title and summary. **The deadline for submitting talk proposals is November 23rd.**
+Additionally, we will have several **contributed talks**.
 
 ## <span style="color: #E03127;">Organised by</span>
 
