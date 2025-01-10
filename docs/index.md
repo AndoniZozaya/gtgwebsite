@@ -27,23 +27,23 @@ title: Groups and Topological Groups
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>11:00 - 11:30</td>
-        <td>Invited Talk</td>
-        <td>Daniele Dona</td>
+    <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>11:30 - 12:30</td>
-        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
-        <td>-</td>
+        <td>Dona</td>
+        <td> Baipaj </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>12:30 - 13:00</td>
-        <td>Invited Talk</td>
-        <td>Sean Eberhard</td>
+        <td>- </td>
+        <td>S- </td>
       </tr>
       <tr>
         <td>11:45 - 12:30</td>
-        <td>Contributed Talk</td>
-        <td>Speaker TBD</td>
+        <td>- </td>
+        <td>- </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>12:30 - 14:00</td>
@@ -52,12 +52,12 @@ title: Groups and Topological Groups
       </tr>
       <tr>
         <td>14:00 - 14:45</td>
-        <td>Invited Talk</td>
-        <td>Francesco Fumagalli</td>
+        <td> </td>
+        <td> - </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>14:45 - 15:30</td>
-        <td>Contributed Talk</td>
+        <td> TBD </td>
         <td>Speaker TBD</td>
       </tr>
       <tr>
@@ -67,7 +67,7 @@ title: Groups and Topological Groups
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>16:00 - 16:45</td>
-        <td>Invited Talk</td>
+        <td> Talk</td>
         <td>Speaker TBD</td>
       </tr>
     </tbody>
