@@ -20,9 +20,9 @@ title: Groups and Topological Groups
     </thead>
     <tbody>
       <tr>
-        <td rowSpan="2">10:00 - 11:00</td>
-        <td rowSpan="2"> Eberhard </td>
-        <td rowSpan="2"> Fumagalli </td>
+        <td>10:00 - 11:00</td>
+        <td> Eberhard </td>
+        <td> Fumagalli </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>11:00 - 11:30</td>
