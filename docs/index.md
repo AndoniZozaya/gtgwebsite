@@ -41,7 +41,7 @@ title: Groups and Topological Groups
         <td>Serafini </td>
       </tr>
       <tr>
-        <td>13: 00- 14:30</td>
+        <td>13:00- 14:30</td>
     <td style="color: #E03127; font-weight: bold;">Lunch </td>
         <td style="color: #E03127; font-weight: bold;">Lunch</td>
       </tr>
