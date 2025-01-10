@@ -85,8 +85,6 @@ There will be four **invited talks** at the conference, given by:
 - [Sean Eberhard](https://warwick.ac.uk/fac/sci/maths/people/staff/Eberhard) (University of Warwick)
 - [Francesco Fumagalli](https://sites.google.com/unifi.it/fumagalli/) (Universita degli Studi di Firenze)
 
-Additionally, we will have several **contributed talks**.
-
 ## <span style="color: #E03127;">Organised by</span>
 
 [Urban Jezernik](https://sites.google.com/site/urbanjezernik/), [Matevž Miščič](https://sites.google.com/view/matevzmiscic) and [Andoni Zozaya](https://sites.google.com/view/andonizozaya/orrialdea).
