@@ -8,9 +8,8 @@ title: Groups and Topological Groups
   <p>The conference starts on Thursday, 23rd of January 2025, in the morning, and finishes on Friday, 24th of January, in the afternoon.</p>
 </div>
 
-<!-- Schedule box -->
-<div class="intro-box pale">
-  <h2>Schedule</h2>
+## <span style="color: #E03127;">Timetable</span>
+
   <table style="width: 100%; border-collapse: collapse; text-align: center;">
     <thead>
       <tr style="background-color: #EAEAEA;">
@@ -72,7 +71,6 @@ title: Groups and Topological Groups
       </tr>
     </tbody>
   </table>
-</div>
 
 <!-- Abstracts link -->
 <p> Find the abstracts <a href="abstracts.pdf" target="_blank">[here]</a>.</p>
