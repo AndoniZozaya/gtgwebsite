@@ -53,7 +53,7 @@ title: Groups and Topological Groups
       <tr>
         <td>14:00 - 14:45</td>
         <td>Invited Talk</td>
-        <td>Francesco Fumagalli</td>
+        <td>- </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>14:45 - 15:30</td>
@@ -67,7 +67,7 @@ title: Groups and Topological Groups
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>16:00 - 16:45</td>
-        <td>Invited Talk</td>
+        <td>-</td>
         <td>Speaker TBD</td>
       </tr>
     </tbody>
