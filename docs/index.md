@@ -21,9 +21,9 @@ title: Groups and Topological Groups
     </thead>
     <tbody>
       <tr>
-        <td>09:00 - 09:45</td>
-        <td>Invited Talk</td>
-        <td>Jitendra Bajpai</td>
+        <td>10:00 - 11:00</td>
+        <td>Eberhard </td>
+        <td> Fumagalli </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>09:45 - 10:30</td>
