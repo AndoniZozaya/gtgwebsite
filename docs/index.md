@@ -8,11 +8,74 @@ title: Groups and Topological Groups
   <p>The conference starts on Thursday, 23rd of January 2025, in the morning, and finishes on Friday, 24th of January, in the afternoon.</p>
 </div>
 
-<!-- Registration box -->
+<!-- Schedule box -->
 <div class="intro-box pale">
-  <h2>Register <a href="https://docs.google.com/forms/d/1bbzCgnYoBJxO5xGWEOn8nsK0EqO9ZnFKHoC_1kCQZEU/edit" target="_blank">here</a></h2>
-  <p style="font-weight: bold;">The deadline for registration is December 31st.</p>
+  <h2>Schedule</h2>
+  <table style="width: 100%; border-collapse: collapse; text-align: center;">
+    <thead>
+      <tr style="background-color: #EAEAEA;">
+        <th style="padding: 10px;">Time</th>
+        <th style="padding: 10px;">Activity</th>
+        <th style="padding: 10px;">Speaker</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>09:00 - 09:45</td>
+        <td>Invited Talk</td>
+        <td>Jitendra Bajpai</td>
+      </tr>
+      <tr style="background-color: #F5F5F5;">
+        <td>09:45 - 10:30</td>
+        <td>Invited Talk</td>
+        <td>Daniele Dona</td>
+      </tr>
+      <tr>
+        <td>10:30 - 11:00</td>
+        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+        <td>-</td>
+      </tr>
+      <tr style="background-color: #F5F5F5;">
+        <td>11:00 - 11:45</td>
+        <td>Invited Talk</td>
+        <td>Sean Eberhard</td>
+      </tr>
+      <tr>
+        <td>11:45 - 12:30</td>
+        <td>Contributed Talk</td>
+        <td>Speaker TBD</td>
+      </tr>
+      <tr style="background-color: #F5F5F5;">
+        <td>12:30 - 14:00</td>
+        <td style="color: #E03127; font-weight: bold;">Lunch Break</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>14:00 - 14:45</td>
+        <td>Invited Talk</td>
+        <td>Francesco Fumagalli</td>
+      </tr>
+      <tr style="background-color: #F5F5F5;">
+        <td>14:45 - 15:30</td>
+        <td>Contributed Talk</td>
+        <td>Speaker TBD</td>
+      </tr>
+      <tr>
+        <td>15:30 - 16:00</td>
+        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+        <td>-</td>
+      </tr>
+      <tr style="background-color: #F5F5F5;">
+        <td>16:00 - 16:45</td>
+        <td>Invited Talk</td>
+        <td>Speaker TBD</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
+<!-- Abstracts link -->
+<p>Find the abstracts <a href="link-al-pdf-con-los-abstracts.pdf" target="_blank">[here]</a>.</p>
 
 ## <span style="color: #E03127;">Speakers</span>
 
@@ -22,7 +85,6 @@ There will be four **invited talks** at the conference, given by:
 - [Sean Eberhard](https://warwick.ac.uk/fac/sci/maths/people/staff/Eberhard) (University of Warwick)
 - [Francesco Fumagalli](https://sites.google.com/unifi.it/fumagalli/) (Universita degli Studi di Firenze)
 
-Additionally, we will have several **contributed talks**.
 
 ## <span style="color: #E03127;">Organised by</span>
 
