@@ -66,7 +66,7 @@ title: Groups and Topological Groups
         <td> Nicotera </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
-        <td>16:00 - 16:45</td>
+        <td>16:30 - 17:00</td>
         <td> Figula </td>
         <td> Falcone </td>
       </tr>
