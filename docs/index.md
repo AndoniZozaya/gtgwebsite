@@ -73,7 +73,7 @@ title: Groups and Topological Groups
   </table>
 
 <!-- Abstracts link -->
-<p> Find the abstracts <a href="abstracts.pdf" target="_blank">[here]</a>.</p>
+<p> Find the abstracts <a href="GtG LJ.pdf" target="_blank">[here]</a>.</p>
 
 <p>The conference dinner will be on Friday at 19.00.</p>
 
