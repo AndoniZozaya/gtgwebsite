@@ -60,7 +60,7 @@ title: Groups and Topological Groups
          <td class="break">Coffee Break</td>
       </tr>
       <tr>
-        <td>15:30 - 16:00</td>
+        <td>16:00 - 16:30</td>
         <td> Serwene </td>
         <td> Nicotera </td>
       </tr>
