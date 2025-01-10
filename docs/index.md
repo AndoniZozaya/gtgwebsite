@@ -37,23 +37,23 @@ title: Groups and Topological Groups
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>12:30 - 13:00</td>
-        <td>- </td>
-        <td>S- </td>
+        <td> Gaeta </td>
+        <td>Serafini </td>
       </tr>
       <tr>
-        <td>11:45 - 12:30</td>
-        <td>- </td>
-        <td>- </td>
-      </tr>
-      <tr style="background-color: #F5F5F5;">
-        <td>12:30 - 14:00</td>
-        <td style="color: #E03127; font-weight: bold;">Lunch Break</td>
+        <td>13: 00- 14:30</td>
+    <td style="color: #E03127; font-weight: bold;">Lunch </td>
         <td>-</td>
       </tr>
+      <tr style="background-color: #F5F5F5;">
+        <td>14:30 - 15:00</td>
+    <td> Fusari </td>
+        <td> Otmen </td>
+      </tr>
       <tr>
-        <td>14:00 - 14:45</td>
-        <td> </td>
-        <td> - </td>
+        <td>15:00 - 15:30 </td>
+        <td> Sabatini </td>
+        <td> Nicotera </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>14:45 - 15:30</td>
