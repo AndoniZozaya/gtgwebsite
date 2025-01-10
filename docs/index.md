@@ -21,24 +21,24 @@ title: Groups and Topological Groups
     </thead>
     <tbody>
       <tr>
-        <td>10:00 - 11:00</td>
-        <td> Eberhard </td>
-        <td> Fumagalli </td>
+        <td>09:00 - 09:45</td>
+        <td>Invited Talk</td>
+        <td>Jitendra Bajpai</td>
       </tr>
       <tr style="background-color: #F5F5F5;">
-        <td>11:00 - 11:30</td>
-        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
-        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+        <td>09:45 - 10:30</td>
+        <td>Invited Talk</td>
+        <td>Daniele Dona</td>
       </tr>
       <tr>
-       <td>11:30 - 12:30</td>
-        <td> Dona  </td>
-        <td> Baipaj </td>
+        <td>10:30 - 11:00</td>
+        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+        <td>-</td>
       </tr>
       <tr style="background-color: #F5F5F5;">
-        <td> 10:00 - 11:00</td>
-        <td>Eberhard </td>
-        <td> Fumagalli </td>
+        <td>11:00 - 11:45</td>
+        <td>Invited Talk</td>
+        <td>Sean Eberhard</td>
       </tr>
       <tr>
         <td>11:45 - 12:30</td>
@@ -53,7 +53,7 @@ title: Groups and Topological Groups
       <tr>
         <td>14:00 - 14:45</td>
         <td>Invited Talk</td>
-        <td>- </td>
+        <td>Francesco Fumagalli</td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>14:45 - 15:30</td>
@@ -67,7 +67,7 @@ title: Groups and Topological Groups
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>16:00 - 16:45</td>
-        <td>-</td>
+        <td>Invited Talk</td>
         <td>Speaker TBD</td>
       </tr>
     </tbody>
@@ -75,7 +75,7 @@ title: Groups and Topological Groups
 </div>
 
 <!-- Abstracts link -->
-<p>Find the abstracts <a href="link-al-pdf-con-los-abstracts.pdf" target="_blank">[here]</a>.</p>
+<p>Los abstracts de las charlas están aquí <a href="link-al-pdf-con-los-abstracts.pdf" target="_blank">[PDF]</a>.</p>
 
 ## <span style="color: #E03127;">Speakers</span>
 
@@ -85,6 +85,7 @@ There will be four **invited talks** at the conference, given by:
 - [Sean Eberhard](https://warwick.ac.uk/fac/sci/maths/people/staff/Eberhard) (University of Warwick)
 - [Francesco Fumagalli](https://sites.google.com/unifi.it/fumagalli/) (Universita degli Studi di Firenze)
 
+Additionally, we will have several **contributed talks**.
 
 ## <span style="color: #E03127;">Organised by</span>
 
