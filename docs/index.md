@@ -32,8 +32,8 @@ title: Groups and Topological Groups
       </tr>
       <tr>
         <td>11:30 - 12:30</td>
-        <td> [Dona](https://sites.google.com/view/danieledona/) </td>
-        <td> Baipaj </td>
+        <td> Dona </td>
+        <td> Bajpai </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>12:30 - 13:00</td>
