@@ -32,7 +32,7 @@ title: Groups and Topological Groups
       </tr>
       <tr>
         <td>11:30 - 12:30</td>
-        <td>Dona</td>
+        <td> [Dona](https://sites.google.com/view/danieledona/) </td>
         <td> Baipaj </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
