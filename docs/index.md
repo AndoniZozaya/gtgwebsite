@@ -26,8 +26,8 @@ title: Groups and Topological Groups
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>11:00 - 11:30</td>
-    <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
-         <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+    <td class="break">Coffee Break</td>
+         <td class="break">Coffee Break</td>
       </tr>
       <tr>
         <td>11:30 - 12:30</td>
