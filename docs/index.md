@@ -21,24 +21,24 @@ title: Groups and Topological Groups
     </thead>
     <tbody>
       <tr>
-        <td>09:00 - 09:45</td>
-        <td>Invited Talk</td>
-        <td>Jitendra Bajpai</td>
+        <td>10:00 - 11:00</td>
+        <td>Eberhard </td>
+        <td> Fumagalli </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
-        <td>09:45 - 10:30</td>
-        <td>Invited Talk</td>
-        <td>Daniele Dona</td>
+        <td>11:00 - 11:30</td>
+        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+        <td style="color: #E03127; font-weight: bold;">Coffee Break</td> 
       </tr>
       <tr>
-        <td>10:30 - 11:00</td>
-        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
-        <td>-</td>
+        <td>11:30 - 12:30</td>
+       <td>Eberhard </td>
+        <td> Fumagalli </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
-        <td>11:00 - 11:45</td>
-        <td>Invited Talk</td>
-        <td>Sean Eberhard</td>
+        <td>12:30 - 13:00</td>
+        <td>Gaeta </td>
+        <td> Serafini </td>
       </tr>
       <tr>
         <td>11:45 - 12:30</td>
