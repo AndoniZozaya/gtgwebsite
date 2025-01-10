@@ -31,9 +31,9 @@ title: Groups and Topological Groups
         <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
       </tr>
       <tr>
-        <td>10:30 - 11:00</td>
-        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
-        <td>-</td>
+       <td>11:30 - 12:30</td>
+        <td> Dona  </td>
+        <td> Baipaj </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td> 10:00 - 11:00</td>
