@@ -41,8 +41,8 @@ title: Groups and Topological Groups
       </tr>
       <tr>
         <td>13:00- 14:30</td>
-    <td style="color: #E03127; font-weight: bold;">Lunch </td>
-        <td style="color: #E03127; font-weight: bold;">Lunch</td>
+    <td class="break">Lunch </td>
+        <td class="break">Lunch</td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>14:30 - 15:00</td>
@@ -52,12 +52,12 @@ title: Groups and Topological Groups
       <tr>
         <td>15:00 - 15:30 </td>
         <td> Sabatini </td>
-        <td> Nicotera </td>
+        <td> Singh </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>15:30 - 16:00</td>
-         <td style="color: #E03127; font-weight: bold;">Coffee Break</td> 
-         <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+         <td class="break">Coffee Break</td> 
+         <td class="break">Coffee Break</td>
       </tr>
       <tr>
         <td>15:30 - 16:00</td>
@@ -74,6 +74,8 @@ title: Groups and Topological Groups
 
 <!-- Abstracts link -->
 <p> Find the abstracts <a href="abstracts.pdf" target="_blank">[here]</a>.</p>
+
+<p>The conference dinner will be on Friday at 19.00.</p>
 
 ## <span style="color: #E03127;">Speakers</span>
 
