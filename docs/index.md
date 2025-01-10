@@ -28,7 +28,7 @@ title: Groups and Topological Groups
       <tr style="background-color: #F5F5F5;">
         <td>11:00 - 11:30</td>
     <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
-        <td>-</td>
+         <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
       </tr>
       <tr>
         <td>11:30 - 12:30</td>
@@ -43,7 +43,7 @@ title: Groups and Topological Groups
       <tr>
         <td>13: 00- 14:30</td>
     <td style="color: #E03127; font-weight: bold;">Lunch </td>
-        <td>-</td>
+        <td style="color: #E03127; font-weight: bold;">Lunch</td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>14:30 - 15:00</td>
@@ -56,26 +56,26 @@ title: Groups and Topological Groups
         <td> Nicotera </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
-        <td>14:45 - 15:30</td>
-        <td> TBD </td>
-        <td>Speaker TBD</td>
+        <td>15:30 - 16:00</td>
+         <td style="color: #E03127; font-weight: bold;">Coffee Break</td> 
+         <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
       </tr>
       <tr>
         <td>15:30 - 16:00</td>
-        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
-        <td>-</td>
+        <td> Serwene </td>
+        <td> Nicotera </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
         <td>16:00 - 16:45</td>
-        <td> Talk</td>
-        <td>Speaker TBD</td>
+        <td> Figula </td>
+        <td> Falcone </td>
       </tr>
     </tbody>
   </table>
 </div>
 
 <!-- Abstracts link -->
-<p>Los abstracts de las charlas están aquí <a href="link-al-pdf-con-los-abstracts.pdf" target="_blank">[PDF]</a>.</p>
+<p> Find the abstracts <a href="abstracts.pdf" target="_blank">[here]</a>.</p>
 
 ## <span style="color: #E03127;">Speakers</span>
 
