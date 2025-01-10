@@ -26,9 +26,9 @@ title: Groups and Topological Groups
         <td> Fumagalli </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
-        <td>09:45 - 10:30</td>
-        <td>Invited Talk</td>
-        <td>Daniele Dona</td>
+        <td>11:00 - 11:30</td>
+        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
+        <td style="color: #E03127; font-weight: bold;">Coffee Break</td>
       </tr>
       <tr>
         <td>10:30 - 11:00</td>
@@ -36,9 +36,9 @@ title: Groups and Topological Groups
         <td>-</td>
       </tr>
       <tr style="background-color: #F5F5F5;">
-        <td>11:00 - 11:45</td>
-        <td>Invited Talk</td>
-        <td>Sean Eberhard</td>
+        <td> 10:00 - 11:00</td>
+        <td>Eberhard </td>
+        <td> Fumagalli </td>
       </tr>
       <tr>
         <td>11:45 - 12:30</td>
