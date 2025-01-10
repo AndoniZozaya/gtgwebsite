@@ -22,7 +22,7 @@ title: Groups and Topological Groups
     <tbody>
       <tr>
         <td>10:00 - 11:00</td>
-        <td>Eberhard </td>
+        <td> Eberhard </td>
         <td> Fumagalli </td>
       </tr>
       <tr style="background-color: #F5F5F5;">
