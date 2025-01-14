@@ -53,7 +53,7 @@ title: Groups and Topological Groups
         <td>15:00 - 15:30 </td>
         <td> Sabatini </td>
         <td> Singh </td>
-      </tr style="height: 25px;">
+      </tr>
       <tr style="background-color: #F5F5F5; height: 25px;">
         <td>15:30 - 16:00</td>
          <td class="break">Coffee Break</td> 
@@ -73,7 +73,7 @@ title: Groups and Topological Groups
   </table>
 
 <!-- Abstracts link -->
-<p> Find the abstracts <a href="abstracts.pdf" target="_blank">[here]</a>.</p>
+<p> Find the abstracts <a href="abstracts.pdf" target="_blank">here</a>.</p>
 
 <p>The conference dinner will be on Friday at 19.00.</p>
 
