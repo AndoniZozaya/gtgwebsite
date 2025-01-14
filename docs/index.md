@@ -19,52 +19,52 @@ title: Groups and Topological Groups
       </tr>
     </thead>
     <tbody>
-      <tr style="height: 100px;">
+      <tr style="height: 50px;">
         <td>10:00 - 11:00</td>
         <td> Eberhard </td>
         <td> Fumagalli </td>
       </tr>
-      <tr style="background-color: #F5F5F5;">
+      <tr style="background-color: #F5F5F5;" style="height: 25px;">
         <td>11:00 - 11:30</td>
     <td class="break">Coffee Break</td>
          <td class="break">Coffee Break</td>
       </tr>
-      <tr>
+      <tr style="height: 50px;">
         <td>11:30 - 12:30</td>
         <td> Dona </td>
         <td> Bajpai </td>
       </tr>
-      <tr style="background-color: #F5F5F5;">
+      <tr style="background-color: #F5F5F5;" style="height: 25px;">
         <td>12:30 - 13:00</td>
         <td> Gaeta </td>
         <td>Serafini </td>
       </tr>
-      <tr>
+      <tr style="height: 75px;">
         <td>13:00- 14:30</td>
     <td class="break">Lunch </td>
         <td class="break">Lunch</td>
       </tr>
-      <tr style="background-color: #F5F5F5;">
+      <tr style="background-color: #F5F5F5;" style="height: 25px;">
         <td>14:30 - 15:00</td>
     <td> Fusari </td>
         <td> Otmen </td>
       </tr>
-      <tr>
+      <tr style="height: 25px;">
         <td>15:00 - 15:30 </td>
         <td> Sabatini </td>
         <td> Singh </td>
-      </tr>
+      </tr style="height: 25px;">
       <tr style="background-color: #F5F5F5;">
         <td>15:30 - 16:00</td>
          <td class="break">Coffee Break</td> 
          <td class="break">Coffee Break</td>
       </tr>
-      <tr>
+      <tr style="height: 25px;">
         <td>16:00 - 16:30</td>
         <td> Serwene </td>
         <td> Nicotera </td>
       </tr>
-      <tr style="background-color: #F5F5F5;">
+      <tr style="background-color: #F5F5F5;" style="height: 25px;">
         <td>16:30 - 17:00</td>
         <td> Figula </td>
         <td> Falcone </td>
