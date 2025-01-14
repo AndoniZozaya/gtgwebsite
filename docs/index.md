@@ -75,7 +75,7 @@ title: Groups and Topological Groups
 <!-- Abstracts link -->
 <p> Find the abstracts <a href="abstracts.pdf" target="_blank">here</a>.</p>
 
-<p>The conference dinner will be on Friday at 19.00.</p>
+<p>Registration opens on Thursday at 9.30. The conference dinner will be on Friday at 19.00.</p>
 
 ## <span style="color: #E03127;">Speakers</span>
 
