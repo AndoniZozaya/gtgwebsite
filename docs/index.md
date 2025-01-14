@@ -19,7 +19,7 @@ title: Groups and Topological Groups
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr style="height: 100px;">
         <td>10:00 - 11:00</td>
         <td> Eberhard </td>
         <td> Fumagalli </td>
