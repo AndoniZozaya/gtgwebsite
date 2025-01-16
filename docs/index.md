@@ -37,7 +37,7 @@ title: Groups and Topological Groups
       <tr style="background-color: #F5F5F5; height: 25px;">
         <td>12:30 - 13:00</td>
         <td> Gaeta </td>
-        <td>Serafini </td>
+        <td> Kudryavtseva </td>
       </tr>
       <tr style="height: 75px;">
         <td>13:00- 14:30</td>
