@@ -46,7 +46,7 @@ title: Groups and Topological Groups
       </tr>
       <tr style="background-color: #F5F5F5; height: 25px;">
         <td>14:30 - 15:00</td>
-    <td> Fusari </td>
+    <td> Nicotera </td>
         <td> Otmen </td>
       </tr>
       <tr style="height: 25px;">
@@ -62,7 +62,7 @@ title: Groups and Topological Groups
       <tr style="height: 25px;">
         <td>16:00 - 16:30</td>
         <td> Serwene </td>
-        <td> Nicotera </td>
+        <td> Monetta </td>
       </tr>
       <tr style="background-color: #F5F5F5; height: 25px;">
         <td>16:30 - 17:00</td>
