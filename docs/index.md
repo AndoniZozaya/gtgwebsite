@@ -52,7 +52,7 @@ title: Groups and Topological Groups
       <tr style="height: 25px;">
         <td>15:00 - 15:30 </td>
         <td> Sabatini </td>
-        <td> Singh </td>
+        <td> Monetta </td>
       </tr>
       <tr style="background-color: #F5F5F5; height: 25px;">
         <td>15:30 - 16:00</td>
@@ -62,12 +62,12 @@ title: Groups and Topological Groups
       <tr style="height: 25px;">
         <td>16:00 - 16:30</td>
         <td> Serwene </td>
-        <td> Monetta </td>
+        <td> Falcone </td>
       </tr>
       <tr style="background-color: #F5F5F5; height: 25px;">
         <td>16:30 - 17:00</td>
         <td> Figula </td>
-        <td> Falcone </td>
+        <td> Rekvenyi </td>
       </tr>
     </tbody>
   </table>
